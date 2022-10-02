@@ -1,0 +1,19 @@
+.logo{
+    background: -webkit-linear-gradient(rgb(133, 181, 235), rgb(18, 58, 131)); 
+  
+    -webkit-text-fill-color: transparent;
+}
+
+
+#home{
+    background: #0D6E9E;
+    min-height: 500px;
+}
+.col-md-6 img{
+    height: 400px;
+}
+
+.cardcurso:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
